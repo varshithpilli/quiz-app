@@ -70,11 +70,6 @@ const questions = [
     correct: 2
   },
   {
-    question: "Which country is famous for inventing pizza?",
-    answers: ["France", "Italy", "Spain", "Greece"],
-    correct: 1
-  },
-  {
     question: "What is the national flower of Japan?",
     answers: ["Lotus", "Cherry Blossom", "Rose", "Sunflower"],
     correct: 1
